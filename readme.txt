@@ -7,4 +7,9 @@
 # pip install django-allauth
 4. Установить библиотеку django-apscheduler
 # pip install django-apscheduler
-5. OK
+5. Установить библиотеку celery
+# pip install celery
+6. Установить библиотеку redis
+# pip install redis
+7. Установить eventlet
+# pip install eventlet
